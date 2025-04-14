@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\SDSI.Access.csproj": {}
+    "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\UserService\\SDSI.Access\\SDSI.Access.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\SDSI.Access.csproj": {
+    "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\UserService\\SDSI.Access\\SDSI.Access.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\SDSI.Access.csproj",
+        "projectUniqueName": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\UserService\\SDSI.Access\\SDSI.Access.csproj",
         "projectName": "SDSI.Access",
-        "projectPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\SDSI.Access.csproj",
+        "projectPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\UserService\\SDSI.Access\\SDSI.Access.csproj",
         "packagesPath": "C:\\Users\\Shaik.Mohammedareef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\obj\\",
+        "outputPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\UserService\\SDSI.Access\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
