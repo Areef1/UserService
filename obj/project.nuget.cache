@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXFOTGg76Ko=",
-  "success": false,
-  "projectFilePath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\SDSI.Access\\SDSI.Access.csproj",
+  "dgSpecHash": "sHdJSiVhFaA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\SDSI.Access.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shaik.Mohammedareef\\.nuget\\packages\\jwt\\11.0.0\\jwt.11.0.0.nupkg.sha512",
     "C:\\Users\\Shaik.Mohammedareef\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
@@ -57,11 +57,6 @@
     "C:\\Users\\Shaik.Mohammedareef\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1302",
-      "level": "Error",
-      "message": "You are running the 'restore' operation with an 'HTTP' source: http://nuget-dev.smartdrivesystems.com. NuGet requires HTTPS sources. To use an HTTP source, you must explicitly set 'allowInsecureConnections' to true in your NuGet.Config file. Refer to https://aka.ms/nuget-https-everywhere for more information."
-    },
     {
       "code": "NU1701",
       "level": "Warning",

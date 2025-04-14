@@ -2222,11 +2222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\SDSI.Access\\SDSI.Access.csproj",
+      "projectUniqueName": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\SDSI.Access.csproj",
       "projectName": "SDSI.Access",
-      "projectPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\SDSI.Access\\SDSI.Access.csproj",
+      "projectPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\SDSI.Access.csproj",
       "packagesPath": "C:\\Users\\Shaik.Mohammedareef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\SDSI.Access\\obj\\",
+      "outputPath": "C:\\Users\\Shaik.Mohammedareef\\Documents\\Lerning\\access\\SDSI.Access\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2241,7 +2241,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget-dev.smartdrivesystems.com": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://www.nuget.org/api/v2/": {}
       },
@@ -2332,11 +2331,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU1302",
-      "level": "Error",
-      "message": "You are running the 'restore' operation with an 'HTTP' source: http://nuget-dev.smartdrivesystems.com. NuGet requires HTTPS sources. To use an HTTP source, you must explicitly set 'allowInsecureConnections' to true in your NuGet.Config file. Refer to https://aka.ms/nuget-https-everywhere for more information."
-    },
     {
       "code": "NU1701",
       "level": "Warning",

@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "0nNfyJ4tENZqlTbAQGSXiGyZ5oDOLL9PvTtnLKehlJc=",
+  "Hash": "4hmYRobfibk25z97j8pcYW2dtVjjiaVElWN2RL/5e2c=",
   "Source": "SDSI.Access",
   "BasePath": "_content/SDSI.Access",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
